@@ -7,10 +7,6 @@ package simplemath;
 
 import java.util.Scanner;
 
-/**
- *
- * @author hasan
- */
 public class Simplemath {
 
     /**
