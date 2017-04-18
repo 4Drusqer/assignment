@@ -37,8 +37,11 @@ public class Simplemath {
     {
         System.out.println("your answer is" +(num1 / num2));
         }
-
-   else 
+    else if (operation.equals("*"))
+    {
+        System.out.println("Your answer is " + (num1 * num2));
+    }
+    else 
     {
        System.out.println("Wrong selection");
     }
